@@ -29,3 +29,18 @@ This dashboard was created for learning purposes by following a YouTube tutorial
 
 ## Future Improvements
 I plan to extend this project by developing additional business questions, independent analysis, and new insights.
+
+## Dashboard Preview
+
+### Airbnb Overview
+![Airbnb Overview](dashboard-overview.png.jpg)
+
+### Market Share and Ratings
+![Market Share and Ratings](market-share-ratings.jpg)
+
+### Reviews and Trust
+![Reviews and Trust](review-frequency-trust.jpg)
+
+## Download the Power BI Dashboard
+
+Download the `.pbix` file from the [GitHub Releases](../../releases/latest) page.
